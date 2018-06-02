@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\WindowsHelpCommandList\WindowsHelpCommandList\bin\Debug\WindowsHelpCommandList.exe.config
+C:\Users\user\source\repos\WindowsHelpCommandList\WindowsHelpCommandList\bin\Debug\WindowsHelpCommandList.exe
+C:\Users\user\source\repos\WindowsHelpCommandList\WindowsHelpCommandList\bin\Debug\WindowsHelpCommandList.pdb
+C:\Users\user\source\repos\WindowsHelpCommandList\WindowsHelpCommandList\obj\Debug\WindowsHelpCommandList.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WindowsHelpCommandList\WindowsHelpCommandList\obj\Debug\WindowsHelpCommandList.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WindowsHelpCommandList\WindowsHelpCommandList\obj\Debug\WindowsHelpCommandList.exe
+C:\Users\user\source\repos\WindowsHelpCommandList\WindowsHelpCommandList\obj\Debug\WindowsHelpCommandList.pdb
